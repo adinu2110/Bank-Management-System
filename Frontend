@@ -6,23 +6,23 @@ support='''
 
 📠  020 - 27218081
 
-📧  help@uquaonpaymentbank
+📧  help@uquaonbank
 
-🌐  www.uquaonpaymentbank.com
+🌐  www.uquaonbank.com
 
-🗾   (Uquaon Payment Bank ) 
+🗾   (Uquaon  Bank ) 
 4th Floor, Mantri Sterling, Plot No. 340, Survey No. 907/8, Model Colony, xyz Chowk, xxx-411 016.
 '''
 notice='''
 
-IMPORTANT:Beware of the fraudulent messages asking to you call any number for verification/download any app to update your KYC/Aadhaar details. Uquaon Payment Bank never asks you to download any third party app for such activities. Please stay alert from such SMS/calls as this may result in financial loss. Stay safe. Team Uquaon Payment Bank
+IMPORTANT:Beware of the fraudulent messages asking to you call any number for verification/download any app to update your KYC/Aadhaar details. Uquaon Payment Bank never asks you to download any third party app for such activities. Please stay alert from such SMS/calls as this may result in financial loss. Stay safe. Team Uquaon  Bank
 '''
 # Main Menu 
 menu=''' How can I help you today ? 
 
 1. Banking services 🏦
 2. Credit card services 💳
-3. UP Bank FASTag services 🛣️
+3. Uquaon Bank FASTag services 🛣️
 4. Loan Services 💸
 5. Fixed Deposit services 🔒
 6. Block/Unblock card 🚫
@@ -41,7 +41,7 @@ banking=''' We're always here to help you with the *Banking services*. What woul
 4. View/Update Nominee Status 👤
 5. Issue New Cheque Book ✍🏻
 6. Tax Payment 🗂️
-7. Open a new InstaSave account ⚡'''
+7. Open a new  account ⚡'''
 
 #Banking- Check Account Balance #
 
@@ -91,8 +91,39 @@ Tap below to fill in details and pay now
 
 # Banking- open new InstaSave account#
 open_account= '''
-Open an account* in less than 4 mins, using your Aadhaar '''
+ACCOUNT
+  
+An expansive ATM network, best-in-class channels of digital banking, instant and digital solutions for your investment and protection needs, customised loan products and a wide range of accounts and deposits, personalised banking with Uquaon  Bank offers you a one-of-its-kind, seamless and hassle-free experience.
 
+Here’s a look at the savings accounts that you can open with Uquaon Bank.
+
+1.Savings Accounts
+2.Online Trading & Demat Account
+3.Salary Account
+4.PayLater by Uquaon Bank
+5.Pension Accounts
+6.Defence Salary Account
+7.Other Accounts
+
+Please type the option number (Ex: 3)
+
+''' 
+savings_accounts='''
+Savings Account
+
+Here’s a range of savings accounts from Uquaon Bank to suit your needs. You unlock a world of possibilities when you open a savings account with Uquaon Bank. Our savings account helps you do so much more than just saving for your future.
+
+CHOOSE THE AUTO ACCOUNT THAT SUITS YOUR NEEDS 
+
+1.Insta Save Account
+2.‘The ONE’ Savings Account
+3.Advantage Woman Aura Savings Account
+4.Advantage Woman Savings Account
+5.Seniors Club Savings Account
+6.Young Stars Savings Account
+
+
+'''
 # Main Menu
 def main_menu():
     mm_response=int(input("Enter the option number: "))
@@ -135,8 +166,28 @@ def banking_menu():
         print(tax_payment)
     elif bmenu_response==7:
         print(open_account)
+        open_account_menu()
      
-        
+def open_account_menu():
+     oam_response=int(input("Enter the option: "))
+     if oam_response==1:
+          print(savings_accounts)
+     elif oam_response==2 :
+         print()
+     elif oam_response==3:
+         print()
+     elif oam_response==4:
+          print()
+     elif oam_response==5:
+          print()
+     elif oam_response==6:
+          print()
+     elif oam_response==7:
+       print()
+      
+      
+      
+      
 
 # Display 
 print(" " *20 ,"Uquaon Payment Bank", " "*25)
@@ -157,4 +208,3 @@ print("\v"*2)
 print(menu)
 print("\v"*2)
 main_menu()
-
