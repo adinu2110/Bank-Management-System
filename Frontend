@@ -15,7 +15,7 @@ support='''
 '''
 notice='''
 
-IMPORTANT:Beware of the fraudulent messages asking to you call any number for verification/download any app to update your KYC/Aadhaar details. Uquaon Payment Bank never asks you to download any third party app for such activities. Please stay alert from such SMS/calls as this may result in financial loss. Stay safe. Team Uquaon  Bank
+IMPORTANT:Beware of the fraudulent messages asking to you call any number for verification/download any app to update your KYC/Aadhaar details. Uquaon Bank never asks you to download any third party app for such activities. Please stay alert from such SMS/calls as this may result in financial loss. Stay safe. Team Uquaon  Bank
 '''
 # Main Menu 
 menu=''' How can I help you today ? 
@@ -47,7 +47,7 @@ banking=''' We're always here to help you with the *Banking services*. What woul
 
 account_balance='''
 
-You don’t seem to have an Uquaon Payment Bank account.
+You don’t seem to have an Uquaon Bank account.
 
 *Open an account* in less than 4 mins, using your Aadhaar.
 
@@ -59,7 +59,7 @@ Please choose an *option* to proceed (Ex: 4)
 ''' 
 # Banking- last5 transaction.  #
 last_5_transactions='''
-You don’t seem to have an Uquaon Payment Bank account.
+You don’t seem to have an Uquaon Bank account.
 
 *Open an account* in less than 4 mins, using your Aadhaar.
 
@@ -84,7 +84,7 @@ Sorry, I'm unable to recall your account(s). Please try checking this later.  �
 '''
 # Banking- Tax payment #
 tax_payment= '''
-Pay your tax securely and safely with Uquaon Payment Bank !
+Pay your tax securely and safely with Uquaon Bank !
 
 Tap below to fill in details and pay now
 '''
