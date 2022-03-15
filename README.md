@@ -52,5 +52,11 @@ Loan services:
 3. Home Loan Services 🏡
 4. Personal Loan Services 👤
 
-And more 
+Fixed Deposit services ☺
+
+1. Fixed Deposit Calculator 🔢
+
+2. Create Fixed Deposit 🔒
+
+
 
