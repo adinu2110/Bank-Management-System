@@ -189,7 +189,7 @@ def open_account_menu():
       
       
 
-# Display 
+# User Interface 
 print(" " *20 ,"Uquaon Payment Bank", " "*25)
 print("\v"*1)
 #
