@@ -1,10 +1,9 @@
-Bank-Management-System
-The project Bank Management System is based on following language
-Frontend: Python 
-Backend: SQL 
+## Bank Management System
+We are creating an interesting project of Bank Management System. 
+Which will have many functionalities which real banking services provides to their customers. 
+Following are the banking services that we want to provide via this # Bank Management System 
 
- 
-Services Available :
+### Services Available :
 
 1. Banking services 🏦
 2. Credit card services 💳
@@ -58,5 +57,5 @@ Fixed Deposit services ☺
 
 2. Create Fixed Deposit 🔒
 
-
+### We are working consistently to complete this project soon.
 
