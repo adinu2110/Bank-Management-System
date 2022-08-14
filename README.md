@@ -1,7 +1,7 @@
 ## Bank Management System
 We are creating an interesting project of Bank Management System. 
 Which will have many functionalities which real banking services provides to their customers. 
-Following are the banking services that we want to provide via this # Bank Management System 
+Following are the banking services that we want to provide via this <b> Bank Management System </b> 
 
 ### Services Available :
 
